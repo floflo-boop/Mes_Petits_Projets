@@ -1,0 +1,81 @@
+colonne communes;colonne csv 2018;colonne csv 2024
+% d’admis dont filles;Concours communs et banques d'épreuves;% d’admis ayant reçu leur proposition d’admission avant la fin de la procédure principale
+% d’admis néo bacheliers;Dont % d’admis avec mention;% d’admis ayant reçu leur proposition d’admission avant le baccalauréat
+% d’admis néo bacheliers avec mention Assez Bien au bac;Dont % d’admis avec mention.1;% d’admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale
+% d’admis néo bacheliers avec mention Bien au bac;Dont % d’admis avec mention.2;% d’admis néo bacheliers avec mention Très Bien avec félicitations au bac
+% d’admis néo bacheliers avec mention Très Bien au bac;Rang du dernier appelé;Commune de l’établissement
+% d’admis néo bacheliers boursiers;;Concours communs et banque d'épreuves
+% d’admis néo bacheliers généraux;;Dont % d’admis avec mention (BG)
+% d’admis néo bacheliers issus de la même académie;;Dont % d’admis avec mention (BP)
+% d’admis néo bacheliers issus de la même académie (Paris/Créteil/Versailles réunies);;Dont % d’admis avec mention (BT)
+% d’admis néo bacheliers issus du même établissement (BTS/CPGE);;Dont effectif des admis ayant reçu leur proposition d’admission avant la fin de la procédure principale
+% d’admis néo bacheliers professionnels;;Dont effectif des admis ayant reçu leur proposition d’admission avant le baccalauréat
+% d’admis néo bacheliers sans information sur la mention au bac;;Dont effectif des admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale
+% d’admis néo bacheliers sans mention au bac;;Dont effectif des admis néo bacheliers avec mention Très Bien avec félicitations au bac
+% d’admis néo bacheliers technologiques;;Dont effectif des candidats boursiers en terminale générale ayant reçu une proposition d’admission de la part de l’établissement
+Académie de l’établissement;;Dont effectif des candidats boursiers en terminale générale professionnelle ayant reçu une proposition d’admission de la part de l’établissement
+Capacité de l’établissement par formation;;Dont effectif des candidats boursiers en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement
+Code UAI de l'établissement;;Effectif des autres candidats ayant reçu une proposition d’admission de la part de l’établissement
+Code départemental de l’établissement;;Effectif des candidats en terminale générale ayant reçu une proposition d’admission de la part de l’établissement
+Coordonnées GPS de la formation;;Effectif des candidats en terminale professionnelle ayant reçu une proposition d’admission de la part de l’établissement
+Dont effectif des admis boursiers néo bacheliers;;Effectif des candidats en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement
+Dont effectif des admis en internat;;Filière de formation détaillée bis
+Dont effectif des admis issus de la même académie;;Filière de formation.1
+Dont effectif des admis issus de la même académie (Paris/Créteil/Versailles réunies);;Part des terminales générales qui étaient en position de recevoir une proposition en phase principale
+Dont effectif des admis issus du même établissement (BTS/CPGE);;Part des terminales professionnelles qui étaient en position de recevoir une proposition en phase principale
+Dont effectif des admis néo bacheliers avec mention Assez Bien au bac;;Part des terminales technologiques qui étaient en position de recevoir une proposition en phase principale
+Dont effectif des admis néo bacheliers avec mention Bien au bac;;Rang du dernier appelé du groupe 1
+Dont effectif des admis néo bacheliers avec mention Très Bien au bac;;Rang du dernier appelé du groupe 2
+Dont effectif des admis néo bacheliers sans information sur la mention au bac;;Rang du dernier appelé du groupe 3
+Dont effectif des admis néo bacheliers sans mention au bac;;Regroupement 1 effectué par les formations pour les classements
+Dont effectif des admises issues du même établissement (BTS/CPGE);;Regroupement 2 effectué par les formations pour les classements
+Dont effectif des candidates admises;;Regroupement 3 effectué par les formations pour les classements
+Dont effectif des candidates pour une formation;;Statut de l’établissement de la filière de formation (public, privé…)
+Dont effectif des candidats ayant postulé en internat;;Sélectivité
+Dont effectif des candidats boursiers néo bacheliers généraux classés par l’établissement;;Taux d’accès
+Dont effectif des candidats boursiers néo bacheliers généraux en phase principale;;cod_aff_form
+Dont effectif des candidats boursiers néo bacheliers professionnels classés par l’établissement;;composante_id_paysage
+Dont effectif des candidats boursiers néo bacheliers professionnels en phase principale;;etablissement_id_paysage
+Dont effectif des candidats boursiers néo bacheliers technologiques classés par l’établissement;;list_com
+Dont effectif des candidats boursiers néo bacheliers technologiques en phase principale;;
+Département de l’établissement;;
+Effectif des admis en phase complémentaire;;
+Effectif des admis en phase principale;;
+Effectif des admis néo bacheliers;;
+Effectif des admis néo bacheliers généraux;;
+Effectif des admis néo bacheliers généraux ayant eu une mention au bac;;
+Effectif des admis néo bacheliers professionnels;;
+Effectif des admis néo bacheliers professionnels ayant eu une mention au bac;;
+Effectif des admis néo bacheliers technologiques;;
+Effectif des admis néo bacheliers technologiques ayant eu une mention au bac;;
+Effectif des autres candidats admis;;
+Effectif des autres candidats classés par l’établissement;;
+Effectif des autres candidats en phase principale;;
+Effectif des candidats classés par l’établissement en internat (CPGE);;
+Effectif des candidats classés par l’établissement en phase complémentaire;;
+Effectif des candidats classés par l’établissement hors internat (CPGE);;
+Effectif des candidats néo bacheliers généraux classés par l’établissement;;
+Effectif des candidats néo bacheliers généraux en phase complémentaire;;
+Effectif des candidats néo bacheliers généraux en phase principale;;
+Effectif des candidats néo bacheliers professionnels classés par l’établissement;;
+Effectif des candidats néo bacheliers professionnels en phase complémentaire;;
+Effectif des candidats néo bacheliers professionnels en phase principale;;
+Effectif des candidats néo bacheliers technologique en phase complémentaire;;
+Effectif des candidats néo bacheliers technologiques classés par l’établissement;;
+Effectif des candidats néo bacheliers technologiques en phase principale;;
+Effectif total des candidats ayant accepté la proposition de l’établissement (admis);;
+Effectif total des candidats ayant reçu une proposition d’admission de la part de l’établissement;;
+Effectif total des candidats classés par l’établissement en phase principale;;
+Effectif total des candidats en phase complémentaire;;
+Effectif total des candidats en phase principale;;
+Effectif total des candidats pour une formation;;
+Effectifs des autres candidats en phase complémentaire;;
+Filière de formation;;
+Filière de formation détaillée;;
+Filière de formation très agrégée;;
+Filière de formation très détaillée;;
+Lien de la formation sur la plateforme Parcoursup;;
+Région de l’établissement;;
+Session;;
+tri;;
+Établissement;;
